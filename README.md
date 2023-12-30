@@ -1,9 +1,10 @@
 #React fun Project
-this is for fun.
+this is for fun.three dragable boxes using 
+Framer motion library 
 
 <br>
 
-https://react-fun-project.vercel.app/
+checkout :   https://react-fun-project.vercel.app/
 
 <br>
 
